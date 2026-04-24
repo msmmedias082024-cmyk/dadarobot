@@ -1,5 +1,5 @@
 /*
- dadabit package
+ dadarobot package
 */
 //% weight=10 icon="\uf013" color=#ff7f00
 namespace dadabit {
