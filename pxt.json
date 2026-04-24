@@ -1,7 +1,7 @@
 {
-    "name": "dadabit",
+    "name": "dadarobot",
     "version": "0.0.1",
-    "description": "Extension for Hiwonder DaDabit",
+    "description": "Extension for  DaDarobot",
     "license": "MIT",
     "dependencies": {
         "core": "*",
